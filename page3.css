@@ -1,0 +1,50 @@
+.titleimg
+{
+    height: 50px;
+}
+.col-lg-6
+{
+    padding-left:3%;
+    padding-top:2%;
+    text-align: center;
+}
+#logo
+{
+    background-color: #737373;
+    padding:2% 2%;
+}
+
+.col-lg-6
+{
+    margin-left: 285px;
+    
+
+}
+.logo1
+{
+    height:50px;
+    width:60px;
+}
+.img2
+{
+    height: 150px;
+    width:270px;
+ padding: 2% 2%;
+    background-color: white;
+
+}
+#section1
+{
+    padding:2% 2%;
+    background-color:#8A8AFF;
+    padding-bottom: 100px;
+}
+.col-md-auto
+{
+    margin:auto;
+}
+.link123
+{
+    background-color:#8A8AFF;
+    padding: 1% 4%;
+}

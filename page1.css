@@ -1,0 +1,50 @@
+#al
+{
+    
+    text-decoration:none;
+    text-align: left;
+}
+.body
+{
+    max-width: 1375px;
+}
+.titleimg
+{
+    height: 50px;
+}
+.img
+{
+    height:800px;
+    width: 100%;
+}
+.comp1
+{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #737373;
+    text-align: center;
+    font-family:Arial;
+    
+}
+#companies-names
+{
+    padding: 5% auto;
+    background-color: black;
+    
+    
+}
+.img2
+{
+    height: 120px;
+    width:220px;
+    padding: 4% 10%;
+    border-style: solid;
+    background-color: white;
+
+}
+.col-lg-4
+{
+    padding-left: 3%;
+    padding-top:2%;
+    text-align: center;
+}

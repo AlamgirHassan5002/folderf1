@@ -1,0 +1,99 @@
+.titleimg
+{
+    height: 50px;
+}
+#logo
+{
+    background-color: #737373;
+}
+#pagebody
+{
+    background-color: #8A8888;
+    padding-bottom: 5px;
+
+}
+.img1
+{
+    height: 300px;
+    width:600px;
+    padding: 4% 10%;
+}
+.x1
+{
+    height: 300px;
+    padding: 3% 5%;
+ 
+
+}
+.img
+{
+    height:575px;
+    width: 100%;
+}
+.intro
+{
+    padding: 2% 4%;
+
+}
+.sedans
+{
+    background-color: #8A8888;
+    padding: 2% 2%;
+}
+.sedans1
+{
+    background-color: #191970;
+    padding-top:15px;
+    padding: 4% 2%;
+}
+.img1
+{
+    height: 300px;
+    width:600px;
+    padding: 4% 10%;
+}
+.col-lg-6
+{
+    padding-left:3%;
+    padding-top:2%;
+    text-align: center;
+}
+#suvs
+{
+    background-color: #8A8888;
+    padding: 2% 2%;
+}
+.suvs1
+{
+    background-color:#D3D3D3;
+    padding: 4% 2%;
+}
+#coupes
+{
+    background-color: #778899;
+    padding: 4% 2%;
+}
+#convertible
+{
+    background-color: #4169E1;
+    padding: 4% 2%;
+    
+}
+.col-lg-6
+{
+    margin-left: 250px;
+    
+}
+.col-md-auto
+{
+    margin:auto;
+}
+
+.img2
+{
+    height: 150px;
+    width:270px;
+ 
+    background-color: white;
+
+}
