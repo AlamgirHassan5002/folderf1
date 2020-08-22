@@ -35,6 +35,11 @@ background-color: white;
     background-color: #737373;
     padding:2% 2%;
 }
+.col-md-auto
+{
+    margin:auto;
+ 
+}
 .link123
 {
     background-color:#8A8AFF;
