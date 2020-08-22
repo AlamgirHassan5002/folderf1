@@ -1,0 +1,42 @@
+.titleimg
+{
+    height: 50px;
+}
+.col-lg-6
+{
+    margin-left: 285px;
+    
+
+}
+.col-lg-6
+{
+    padding-left:3%;
+    padding-top:2%;
+    text-align: center;
+}
+#pic1
+{
+    height:800px;
+}
+.img2
+{
+    height: 200px;
+    width:350px;
+ padding: 2% 1%;
+background-color: white;
+
+}
+.models
+{
+    background-color: #a1b2e6;
+}
+#logo
+{
+    background-color: #737373;
+    padding:2% 2%;
+}
+.link123
+{
+    background-color:#8A8AFF;
+    padding: 1% 4%;
+}
