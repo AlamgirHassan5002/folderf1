@@ -1,0 +1,58 @@
+.titleimg
+{
+    height: 50px;
+}
+#logo
+{
+    background-color: #737373;
+    padding:2% 2%;
+}
+.col-lg-6
+{
+    margin-left: 285px;
+    
+
+}
+.col-lg-6
+{
+    padding-left:3%;
+    padding-top:2%;
+    text-align: center;
+}
+.col-md-auto
+{
+    margin:auto;
+}
+#pic1
+{
+    height:800px;
+}
+.img2
+{
+    height: 100px;
+    width:220px;
+ padding: 2% 2%;
+    background-color: white;
+
+}
+.blacklabel
+{
+    background-color:#19334d;
+}
+.col-md-auto
+{
+    margin:center;
+    
+}
+.body1
+{
+    background-color:#8A8AFF;
+}
+.bodystyle
+{
+    background-color: silver;
+}
+.sedan
+{
+    background-color: #737373;
+}
