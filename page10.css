@@ -1,0 +1,43 @@
+.titleimg
+{
+    height: 50px;
+}
+.col-lg-6
+{
+    margin-left: 285px;
+    
+
+}
+.col-lg-6
+{
+    padding-left:3%;
+    padding-top:2%;
+    text-align: center;
+}
+#logo
+{
+    background-color: #737373;
+    padding:2% 2%;
+}
+.col-md-auto
+{
+    margin:auto;
+ 
+}
+.link123
+{
+    background-color:#8A8AFF;
+    padding: 1% 4%;
+}
+.img2
+{
+    height: 150px;
+    width:370px;
+ 
+    background-color: white;
+
+}
+#pic1
+{
+    height:800px;
+}
